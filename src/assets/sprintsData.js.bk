@@ -1,0 +1,106 @@
+export default [
+  {
+    name: "Sprint 1",
+    tasks: [
+      {
+        id: "62a6359b444773b6afb6ce60",
+        name: "Task 1",
+        description: "Description of Task 1",
+        owner: "fraineri",
+        sprint: "Sprint 1",
+        project: "Project A",
+        skills: [
+          {
+            name: "Java",
+            level: "Beginner",
+          },
+          {
+            name: "Data Structures",
+            level: "Intermediate",
+          },
+        ],
+      },
+      {
+        id: "62a6359b444773b6afb6ce61",
+        name: "Task 2",
+        description: "Description of Task 2",
+        owner: "fraineri",
+        sprint: "Sprint 1",
+        project: "Project A",
+        skills: [
+          {
+            name: "Java",
+            level: "Intermediate",
+          },
+          {
+            name: "Spring",
+            level: "Beginner",
+          },
+          {
+            name: "JUnit",
+            level: "Beginner",
+          },
+        ],
+      },
+      {
+        id: "62a6359b444773b6afb6ce62",
+        name: "Task 3",
+        description: "Description of Task 3",
+        owner: "fraineri",
+        sprint: "Sprint 1",
+        project: "Project A",
+        skills: [
+          {
+            name: "JavaScript",
+            level: "Advance",
+          },
+          {
+            name: "React",
+            level: "Beginner",
+          },
+          {
+            name: "Sinon",
+            level: "Beginner",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: "Sprint 2",
+    tasks: [
+      {
+        id: "62a6359b444773b6afb6ce63",
+        name: "Task 4",
+        description: "Description of Task 4",
+        owner: "fraineri",
+        sprint: "Sprint 2",
+        project: "Project A",
+        skills: [
+          {
+            name: "Java",
+            level: "Intermediate",
+          },
+          {
+            name: "Spring",
+            level: "Intermediate",
+          },
+        ],
+      },
+      {
+        id: "62a6359b444773b6afb6ce64",
+        name: "Task 5",
+        description: "Description of Task 5",
+        owner: "fraineri",
+        sprint: "Sprint 2",
+        project: "Project A",
+        skills: [
+          {
+            name: "JUnit",
+            level: "Intermediate",
+          },
+        ],
+      },
+    ],
+  },
+];
